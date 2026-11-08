@@ -3,6 +3,12 @@
 Status: research only; Termux permanently excluded by the user; self-contained
 Android runtime feasibility remains unresolved; no gameplay verified.
 
+Current delivery state: designs approved for implementation planning; three
+implementation plans saved. Public repository created at
+https://github.com/wangzheruoyun/ai-minecraft-android with documentation only.
+Historical “no repository” statements below describe their respective research
+stages. No product code, workflow execution, APK or gameplay verification exists yet.
+
 ## Requirements
 
 - Android launcher for Minecraft Java Edition.
